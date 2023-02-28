@@ -1,2 +1,2 @@
-# checkListApp
+# CheckListApp
 CheckListApp
